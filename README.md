@@ -73,7 +73,8 @@ HearEmotion/
 ├── App.py               # Main application code
 ├── HearEmotion.ipynb    # Jupyter notebook for exploration
 ├── README.md            # Documentation (this file)
-└── Recording..wav       # Sample Audio Input
+└── Recording.wav        # Sample Audio Input
+└── results.csv          # CSV file contaaining sentiment reults
 ```
 ---
 
